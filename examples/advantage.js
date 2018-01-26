@@ -34,7 +34,7 @@ req({
   },
   // JSON Object
   headers: {
-    referer: 'http://www.google.com'
+    Referer: 'http://www.google.com'
   },
   proxy: {
     host: '[HOST]',
